@@ -1,0 +1,17 @@
+.idea
+.github
+.vscode
+.devcontainer
+models
+examples/chatbot-ui/models
+examples/rwkv/models
+examples/**/models
+Dockerfile*
+__pycache__
+
+# SonarQube
+.scannerwork
+
+# backend virtual environments
+**/venv
+backend/python/**/source

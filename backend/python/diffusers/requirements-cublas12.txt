@@ -1,0 +1,9 @@
+torch==2.4.1
+diffusers
+opencv-python
+transformers
+accelerate
+compel
+peft
+sentencepiece
+optimum-quanto

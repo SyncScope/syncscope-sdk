@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="src" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="58">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="selenium-wire" />
+            <item index="2" class="java.lang.String" itemvalue="pydivert" />
+            <item index="3" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="5" class="java.lang.String" itemvalue="selenium-recaptcha-solver" />
+            <item index="6" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="7" class="java.lang.String" itemvalue="random-password-generator" />
+            <item index="8" class="java.lang.String" itemvalue="trio" />
+            <item index="9" class="java.lang.String" itemvalue="pycryptodomex" />
+            <item index="10" class="java.lang.String" itemvalue="fake-useragent" />
+            <item index="11" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="12" class="java.lang.String" itemvalue="SpeechRecognition" />
+            <item index="13" class="java.lang.String" itemvalue="cryptography" />
+            <item index="14" class="java.lang.String" itemvalue="pydub" />
+            <item index="15" class="java.lang.String" itemvalue="wsproto" />
+            <item index="16" class="java.lang.String" itemvalue="crypto" />
+            <item index="17" class="java.lang.String" itemvalue="random-username" />
+            <item index="18" class="java.lang.String" itemvalue="PySocks" />
+            <item index="19" class="java.lang.String" itemvalue="install" />
+            <item index="20" class="java.lang.String" itemvalue="random-user-agent" />
+            <item index="21" class="java.lang.String" itemvalue="idna" />
+            <item index="22" class="java.lang.String" itemvalue="shellescape" />
+            <item index="23" class="java.lang.String" itemvalue="undetected-chromedriver" />
+            <item index="24" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="25" class="java.lang.String" itemvalue="smsactivate" />
+            <item index="26" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="27" class="java.lang.String" itemvalue="h2" />
+            <item index="28" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="29" class="java.lang.String" itemvalue="requests" />
+            <item index="30" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="31" class="java.lang.String" itemvalue="selenium" />
+            <item index="32" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="33" class="java.lang.String" itemvalue="urllib3" />
+            <item index="34" class="java.lang.String" itemvalue="outcome" />
+            <item index="35" class="java.lang.String" itemvalue="websockets" />
+            <item index="36" class="java.lang.String" itemvalue="kaitaistruct" />
+            <item index="37" class="java.lang.String" itemvalue="hyperframe" />
+            <item index="38" class="java.lang.String" itemvalue="six" />
+            <item index="39" class="java.lang.String" itemvalue="hpack" />
+            <item index="40" class="java.lang.String" itemvalue="zstandard" />
+            <item index="41" class="java.lang.String" itemvalue="Naked" />
+            <item index="42" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="43" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="44" class="java.lang.String" itemvalue="multidict" />
+            <item index="45" class="java.lang.String" itemvalue="vdf" />
+            <item index="46" class="java.lang.String" itemvalue="yarl" />
+            <item index="47" class="java.lang.String" itemvalue="protobuf-decoder" />
+            <item index="48" class="java.lang.String" itemvalue="requests-toolbelt" />
+            <item index="49" class="java.lang.String" itemvalue="pywin32" />
+            <item index="50" class="java.lang.String" itemvalue="pip" />
+            <item index="51" class="java.lang.String" itemvalue="tronpy" />
+            <item index="52" class="java.lang.String" itemvalue="pypiwin32" />
+            <item index="53" class="java.lang.String" itemvalue="PyQt6-sip" />
+            <item index="54" class="java.lang.String" itemvalue="PyQt6-Qt6" />
+            <item index="55" class="java.lang.String" itemvalue="PyQt6" />
+            <item index="56" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="57" class="java.lang.String" itemvalue="redis" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
